@@ -78,7 +78,7 @@
 
 ![image-20201126180803312](https://github.com/NeusoftWADA/JavaWeb_Self-introduction_WangBowen/blob/main/web/pictures/image-20201126180803312.png)
 
-<center><!--文件如上（源码在/web文件夹下）--></center>
+*<u>文件如上（源码在/web文件夹下）</u>*
 
 - index.jsp	——>	默认欢迎界面
 - Login.html	——>	登陆界面
