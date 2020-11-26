@@ -76,7 +76,7 @@
 
 ##### 4.前端发送请求和接收响应（web）
 
-![image-20201126180803312](https://github.com/NeusoftWADA/JavaWeb_Self-introduction_WangBowen/blob/main/web/pictures/mage-20201126180803312.png)
+![image-20201126180803312](https://github.com/NeusoftWADA/JavaWeb_Self-introduction_WangBowen/blob/main/web/pictures/image-20201126180803312.png)
 
 <center><!--文件如上（源码在/web文件夹下）--></center>
 
